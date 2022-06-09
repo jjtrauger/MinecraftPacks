@@ -1,0 +1,10 @@
+execute at @s run summon frog
+execute at @s run summon frog
+execute at @s run summon frog
+execute at @s run summon frog
+execute at @s run summon frog
+execute at @s run summon frog
+execute at @s run summon frog
+execute at @s run summon frog
+execute at @s run summon frog
+execute at @s run summon frog
