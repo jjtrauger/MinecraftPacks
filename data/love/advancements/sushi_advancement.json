@@ -1,0 +1,14 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "criteria": {
+        "sushi": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "minecraft:sushi_recipe"
+            }
+        }
+    },
+    "rewards": {
+        "function": "love:give_sushi"
+    }
+}

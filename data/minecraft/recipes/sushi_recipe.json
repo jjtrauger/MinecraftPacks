@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#T#",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:dried_kelp"
+        },
+        "T": {
+            "item": "minecraft:tropical_fish"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}
