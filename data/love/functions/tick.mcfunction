@@ -1,0 +1,1 @@
+#execute as @a[nbt={SelectedItem:{id:"minecraft:tropical_fish", tag:{CustomModelData:22150001}}}] run effect give @s haste 1 100 
