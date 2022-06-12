@@ -1,6 +1,6 @@
 {
-    "pack": {
-        "description": "With love, Joey",
-        "pack_format": 2
-    }
+  "pack": {
+    "pack_format": 9,
+    "description": "Volgami's Datapack"
+  }
 }
