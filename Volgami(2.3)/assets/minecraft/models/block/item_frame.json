@@ -1,0 +1,11 @@
+{
+    "parent": "minecraft:block/template_item_frame",
+    "textures": {
+        "particle": "block/birch_planks",
+        "wood": "block/birch_planks",
+        "back": "block/item_frame"
+    },
+    "overrides": [
+        {"predicate":{"custom_model_data": 22150002}, "model": "custom/cookingbench"}
+      ]
+}

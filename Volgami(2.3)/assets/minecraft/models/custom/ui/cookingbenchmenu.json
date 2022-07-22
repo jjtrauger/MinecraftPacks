@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:custom/ui/root",
+    "textures":{
+        "texture": "gui/cookingbenchgui"
+    }
+}
