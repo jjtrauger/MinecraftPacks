@@ -8,3 +8,5 @@ execute as @e[type=minecraft:item_frame,tag=cookingbench,tag=placed] at @s unles
 
 #handle all minecart types together- the cart is invisible, run function to fill space with custom block model that looks like the minecart
 execute as @e[type=#minecraft:minecarts,tag=!invisible_minecart] run function invisible_minecarts
+
+execute run function love:gui_stuff/start_look
